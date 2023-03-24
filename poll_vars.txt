@@ -1,0 +1,24 @@
+ 'Coal rents (% of GDP) [NY.GDP.COAL.RT.ZS]', #COMPARE AT THE END
+
+'Access to clean fuels and technologies for cooking (% of population) [EG.CFT.ACCS.ZS]',
+ 'Access to clean fuels and technologies for cooking, rural (% of rural population) [EG.CFT.ACCS.RU.ZS]',
+ 'Access to clean fuels and technologies for cooking, urban (% of urban population) [EG.CFT.ACCS.UR.ZS]',
+
+'Access to electricity (% of population) [EG.ELC.ACCS.ZS]',
+ 'Access to electricity, rural (% of rural population) [EG.ELC.ACCS.RU.ZS]',
+ 'Access to electricity, urban (% of urban population) [EG.ELC.ACCS.UR.ZS]',
+
+'Agricultural methane emissions (thousand metric tons of CO2 equivalent) [EN.ATM.METH.AG.KT.CE]',
+'Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent) [EN.ATM.NOXE.AG.KT.CE]',
+
+'Annual freshwater withdrawals, total (% of internal resources) [ER.H2O.FWTL.ZS]',
+
+
+'CO2 emissions (kg per 2015 US$ of GDP) [EN.ATM.CO2E.KD.GD]',
+ 'CO2 emissions (kg per 2017 PPP $ of GDP) [EN.ATM.CO2E.PP.GD.KD]',
+ 'CO2 emissions (kg per PPP $ of GDP) [EN.ATM.CO2E.PP.GD]',
+ 'CO2 emissions (kt) [EN.ATM.CO2E.KT]',
+ 'CO2 emissions (metric tons per capita) [EN.ATM.CO2E.PC]',
+
+
+

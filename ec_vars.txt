@@ -1,0 +1,18 @@
+'Adjusted net national income (current US$) [NY.ADJ.NNTY.CD]',
+ 'Adjusted net national income per capita (current US$) [NY.ADJ.NNTY.PC.CD]',
+ 'Adjusted savings: carbon dioxide damage (% of GNI) [NY.ADJ.DCO2.GN.ZS]',
+ 'Adjusted savings: consumption of fixed capital (% of GNI) [NY.ADJ.DKAP.GN.ZS]',
+ 'Adjusted savings: education expenditure (% of GNI) [NY.ADJ.AEDU.GN.ZS]',
+ 'Adjusted savings: energy depletion (% of GNI) [NY.ADJ.DNGY.GN.ZS]',
+ 'Adjusted savings: mineral depletion (% of GNI) [NY.ADJ.DMIN.GN.ZS]',
+ 'Adjusted savings: mineral depletion (current US$) [NY.ADJ.DMIN.CD]',
+ 'Adjusted savings: natural resources depletion (% of GNI) [NY.ADJ.DRES.GN.ZS]',
+ 'Adjusted savings: net forest depletion (% of GNI) [NY.ADJ.DFOR.GN.ZS]',
+ 'Adjusted savings: particulate emission damage (% of GNI) [NY.ADJ.DPEM.GN.ZS]',
+
+
+'Age dependency ratio (% of working-age population) [SP.POP.DPND]',
+ 'Age dependency ratio, old (% of working-age population) [SP.POP.DPND.OL]',
+ 'Age dependency ratio, young (% of working-age population) [SP.POP.DPND.YG]',
+
+

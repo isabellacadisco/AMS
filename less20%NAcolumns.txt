@@ -19,10 +19,16 @@
  'Age dependency ratio (% of working-age population) [SP.POP.DPND]',
  'Age dependency ratio, old (% of working-age population) [SP.POP.DPND.OL]',
  'Age dependency ratio, young (% of working-age population) [SP.POP.DPND.YG]',
+
+
  'Agricultural land (% of land area) [AG.LND.AGRI.ZS]',
  'Agricultural land (sq. km) [AG.LND.AGRI.K2]',
  'Agricultural methane emissions (thousand metric tons of CO2 equivalent) [EN.ATM.METH.AG.KT.CE]',
+
+
  'Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent) [EN.ATM.NOXE.AG.KT.CE]',
+
+
  'Agriculture, forestry, and fishing, value added (% of GDP) [NV.AGR.TOTL.ZS]',
  'Agriculture, forestry, and fishing, value added (annual % growth) [NV.AGR.TOTL.KD.ZG]',
  'Agriculture, forestry, and fishing, value added (constant 2015 US$) [NV.AGR.TOTL.KD]',
@@ -32,6 +38,7 @@
  'Annual freshwater withdrawals, domestic (% of total freshwater withdrawal) [ER.H2O.FWDM.ZS]',
  'Annual freshwater withdrawals, industry (% of total freshwater withdrawal) [ER.H2O.FWIN.ZS]',
  'Annual freshwater withdrawals, total (% of internal resources) [ER.H2O.FWTL.ZS]',
+
  'Annual freshwater withdrawals, total (billion cubic meters) [ER.H2O.FWTL.K3]',
  'Aquaculture production (metric tons) [ER.FSH.AQUA.MT]',
  'Arable land (% of land area) [AG.LND.ARBL.ZS]',
@@ -51,7 +58,13 @@
  'CO2 emissions (kg per PPP $ of GDP) [EN.ATM.CO2E.PP.GD]',
  'CO2 emissions (kt) [EN.ATM.CO2E.KT]',
  'CO2 emissions (metric tons per capita) [EN.ATM.CO2E.PC]',
- 'Coal rents (% of GDP) [NY.GDP.COAL.RT.ZS]',
+
+
+ 'Coal rents (% of GDP) [NY.GDP.COAL.RT.ZS]', #COMPARE AT THE END
+
+
+#-------
+
  'Commercial bank branches (per 100,000 adults) [FB.CBK.BRCH.P5]',
  'Commercial service exports (current US$) [TX.VAL.SERV.CD.WT]',
  'Commercial service imports (current US$) [TM.VAL.SERV.CD.WT]',
@@ -60,9 +73,18 @@
  'Compulsory education, duration (years) [SE.COM.DURS]',
  'Computer, communications and other services (% of commercial service exports) [TX.VAL.OTHR.ZS.WT]',
  'Computer, communications and other services (% of commercial service imports) [TM.VAL.OTHR.ZS.WT]',
+
+
+
  'Contributing family workers, female (% of female employment) (modeled ILO estimate) [SL.FAM.WORK.FE.ZS]',
  'Contributing family workers, male (% of male employment) (modeled ILO estimate) [SL.FAM.WORK.MA.ZS]',
+
+
+
  'Contributing family workers, total (% of total employment) (modeled ILO estimate) [SL.FAM.WORK.ZS]',
+
+
+
  'Cost of business start-up procedures (% of GNI per capita) [IC.REG.COST.PC.ZS]',
  'Cost of business start-up procedures, female (% of GNI per capita) [IC.REG.COST.PC.FE.ZS]',
  'Cost of business start-up procedures, male (% of GNI per capita) [IC.REG.COST.PC.MA.ZS]',
@@ -70,15 +92,20 @@
  'Cost to export, documentary compliance (US$) [IC.EXP.CSDC.CD]',
  'Cost to import, border compliance (US$) [IC.IMP.CSBC.CD]',
  'Cost to import, documentary compliance (US$) [IC.IMP.CSDC.CD]',
+
  'Current health expenditure (% of GDP) [SH.XPD.CHEX.GD.ZS]',
  'Current health expenditure per capita (current US$) [SH.XPD.CHEX.PC.CD]',
  'Current health expenditure per capita, PPP (current international $) [SH.XPD.CHEX.PP.CD]',
 
 'Death rate, crude (per 1,000 people) [SP.DYN.CDRT.IN]',
  'DEC alternative conversion factor (LCU per US$) [PA.NUS.ATLS]',
+
+
  'Depth of credit information index (0=low to 8=high) [IC.CRD.INFO.XQ]',
  'Domestic credit to private sector (% of GDP) [FS.AST.PRVT.GD.ZS]',
  'Domestic credit to private sector by banks (% of GDP) [FD.AST.PRVT.GD.ZS]',
+
+
  'Domestic general government health expenditure (% of current health expenditure) [SH.XPD.GHED.CH.ZS]',
  'Domestic general government health expenditure (% of GDP) [SH.XPD.GHED.GD.ZS]',
  'Domestic general government health expenditure per capita (current US$) [SH.XPD.GHED.PC.CD]',
@@ -86,7 +113,10 @@
  'Domestic private health expenditure (% of current health expenditure) [SH.XPD.PVTD.CH.ZS]',
  'Domestic private health expenditure per capita (current US$) [SH.XPD.PVTD.PC.CD]',
  'Domestic private health expenditure per capita, PPP (current international $) [SH.XPD.PVTD.PP.CD]',
- 'Ease of doing business score (0 = lowest performance to 100 = best performance) [IC.BUS.DFRN.XQ]',
+ 
+'Ease of doing business score (0 = lowest performance to 100 = best performance) [IC.BUS.DFRN.XQ]',
+
+
  'Employers, female (% of female employment) (modeled ILO estimate) [SL.EMP.MPYR.FE.ZS]',
  'Employers, male (% of male employment) (modeled ILO estimate) [SL.EMP.MPYR.MA.ZS]',
  'Employers, total (% of total employment) (modeled ILO estimate) [SL.EMP.MPYR.ZS]',
@@ -105,7 +135,9 @@
  'Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate) [SL.EMP.1524.SP.FE.ZS]',
  'Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate) [SL.EMP.1524.SP.MA.ZS]',
  'Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate) [SL.EMP.1524.SP.ZS]',
- 'Exports of goods and services (% of GDP) [NE.EXP.GNFS.ZS]',
+ 
+
+'Exports of goods and services (% of GDP) [NE.EXP.GNFS.ZS]',
  'Exports of goods and services (BoP, current US$) [BX.GSR.GNFS.CD]',
  'Exports of goods and services (current US$) [NE.EXP.GNFS.CD]',
  'Exports of goods, services and primary income (BoP, current US$) [BX.GSR.TOTL.CD]',
@@ -121,10 +153,14 @@
  'Fixed broadband subscriptions (per 100 people) [IT.NET.BBND.P2]',
  'Fixed telephone subscriptions [IT.MLT.MAIN]',
  'Fixed telephone subscriptions (per 100 people) [IT.MLT.MAIN.P2]',
+
+
  'Foreign direct investment, net inflows (% of GDP) [BX.KLT.DINV.WD.GD.ZS]',
  'Foreign direct investment, net inflows (BoP, current US$) [BX.KLT.DINV.CD.WD]',
  'Foreign direct investment, net outflows (% of GDP) [BM.KLT.DINV.WD.GD.ZS]',
  'Foreign direct investment, net outflows (BoP, current US$) [BM.KLT.DINV.CD.WD]',
+
+
  'Forest area (% of land area) [AG.LND.FRST.ZS]',
  'Forest area (sq. km) [AG.LND.FRST.K2]',
  'Forest rents (% of GDP) [NY.GDP.FRST.RT.ZS]',
@@ -140,8 +176,14 @@
  'GDP per person employed (constant 2017 PPP $) [SL.GDP.PCAP.EM.KD]',
  'GDP, PPP (constant 2017 international $) [NY.GDP.MKTP.PP.KD]',
  'GDP, PPP (current international $) [NY.GDP.MKTP.PP.CD]',
+
+
  'General government final consumption expenditure (% of GDP) [NE.CON.GOVT.ZS]',
  'General government final consumption expenditure (current US$) [NE.CON.GOVT.CD]',
+
+
+
+
  'GNI (current US$) [NY.GNP.MKTP.CD]',
  'GNI per capita, Atlas method (current US$) [NY.GNP.PCAP.CD]',
  'GNI per capita, PPP (current international $) [NY.GNP.PCAP.PP.CD]',
@@ -149,6 +191,8 @@
  'GNI, PPP (current international $) [NY.GNP.MKTP.PP.CD]',
  'Goods exports (BoP, current US$) [BX.GSR.MRCH.CD]',
  'Goods imports (BoP, current US$) [BM.GSR.MRCH.CD]',
+
+
  'Government expenditure on education, total (% of GDP) [SE.XPD.TOTL.GD.ZS]',
  'Government expenditure on education, total (% of government expenditure) [SE.XPD.TOTL.GB.ZS]',
  'Gross capital formation (% of GDP) [NE.GDI.TOTL.ZS]',
@@ -172,12 +216,19 @@
  'Imports of goods and services (% of GDP) [NE.IMP.GNFS.ZS]',
  'Imports of goods and services (BoP, current US$) [BM.GSR.GNFS.CD]',
  'Imports of goods and services (current US$) [NE.IMP.GNFS.CD]',
+
+
  'Imports of goods, services and primary income (BoP, current US$) [BM.GSR.TOTL.CD]',
  'Incidence of tuberculosis (per 100,000 people) [SH.TBS.INCD]',
+
+
+
  'Industry (including construction), value added (% of GDP) [NV.IND.TOTL.ZS]',
  'Industry (including construction), value added (annual % growth) [NV.IND.TOTL.KD.ZG]',
  'Industry (including construction), value added (constant 2015 US$) [NV.IND.TOTL.KD]',
  'Industry (including construction), value added (current US$) [NV.IND.TOTL.CD]',
+
+
  'Inflation, consumer prices (annual %) [FP.CPI.TOTL.ZG]',
  'Inflation, GDP deflator (annual %) [NY.GDP.DEFL.KD.ZG]',
  'Insurance and financial services (% of commercial service exports) [TX.VAL.INSF.ZS.WT]',
@@ -206,10 +257,14 @@
  'Life expectancy at birth, total (years) [SP.DYN.LE00.IN]',
 
 'Mammal species, threatened [EN.MAM.THRD.NO]',
+
+
  'Manufacturing, value added (% of GDP) [NV.IND.MANF.ZS]',
  'Manufacturing, value added (annual % growth) [NV.IND.MANF.KD.ZG]',
  'Manufacturing, value added (constant 2015 US$) [NV.IND.MANF.KD]',
  'Manufacturing, value added (current US$) [NV.IND.MANF.CD]',
+
+
  'Merchandise exports (current US$) [TX.VAL.MRCH.CD.WT]',
  'Merchandise exports by the reporting economy (current US$) [TX.VAL.MRCH.WL.CD]',
  'Merchandise exports by the reporting economy, residual (% of total merchandise exports) [TX.VAL.MRCH.RS.ZS]',
@@ -235,11 +290,16 @@
  'Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports) [TM.VAL.MRCH.R6.ZS]',
  'Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports) [TM.VAL.MRCH.OR.ZS]',
  'Merchandise trade (% of GDP) [TG.VAL.TOTL.GD.ZS]',
+
+
+
  'Methane emissions (kt of CO2 equivalent) [EN.ATM.METH.KT.CE]',
  'Mineral rents (% of GDP) [NY.GDP.MINR.RT.ZS]',
  'Mobile cellular subscriptions [IT.CEL.SETS]',
  'Mobile cellular subscriptions (per 100 people) [IT.CEL.SETS.P2]',
 'Monetary Sector credit to private sector (% GDP) [FM.AST.PRVT.GD.ZS]',
+
+
  'Mortality caused by road traffic injury (per 100,000 population) [SH.STA.TRAF.P5]',
  'Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%) [SH.DYN.NCOM.ZS]',
  'Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%) [SH.DYN.NCOM.FE.ZS]',
@@ -260,6 +320,8 @@
 'Natural gas rents (% of GDP) [NY.GDP.NGAS.RT.ZS]',
  'Net migration [SM.POP.NETM]',
  'Nitrous oxide emissions (thousand metric tons of CO2 equivalent) [EN.ATM.NOXE.KT.CE]',
+
+
  'Number of deaths ages 10-14 years [SH.DTH.1014]',
  'Number of deaths ages 15-19 years [SH.DTH.1519]',
  'Number of deaths ages 20-24 years [SH.DTH.2024]',
@@ -275,6 +337,8 @@
 
 'People practicing open defecation (% of population) [SH.STA.ODFC.ZS]',
  'People practicing open defecation, urban (% of urban population) [SH.STA.ODFC.UR.ZS]',
+
+
  'People using at least basic drinking water services (% of population) [SH.H2O.BASW.ZS]',
  'People using at least basic drinking water services, urban (% of urban population) [SH.H2O.BASW.UR.ZS]',
  'People using at least basic sanitation services (% of population) [SH.STA.BASS.ZS]',
@@ -366,12 +430,16 @@
 'Ratio of female to male labor force participation rate (%) (modeled ILO estimate) [SL.TLF.CACT.FM.ZS]',
  'Refugee population by country or territory of asylum [SM.POP.REFG]',
  'Refugee population by country or territory of origin [SM.POP.REFG.OR]',
+
+
  'Renewable energy consumption (% of total final energy consumption) [EG.FEC.RNEW.ZS]',
  'Renewable internal freshwater resources per capita (cubic meters) [ER.H2O.INTR.PC]',
  'Renewable internal freshwater resources, total (billion cubic meters) [ER.H2O.INTR.K3]',
  'Rural population [SP.RUR.TOTL]',
  'Rural population (% of total population) [SP.RUR.TOTL.ZS]',
  'Rural population growth (annual %) [SP.RUR.TOTL.ZG]',
+
+
  'Scientific and technical journal articles [IP.JRN.ARTC.SC]',
  'Secondary education, duration (years) [SE.SEC.DURS]',
  'Secondary income receipts (BoP, current US$) [BX.TRF.CURR.CD]',
@@ -418,11 +486,15 @@
  'Time to import, documentary compliance (hours) [IC.IMP.TMDC]',
  'Time to prepare and pay taxes (hours) [IC.TAX.DURS]',
  'Time to resolve insolvency (years) [IC.ISV.DURS]',
+
+
  'Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age) [SH.ALC.PCAP.LI]',
  'Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age) [SH.ALC.PCAP.FE.LI]',
  'Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age) [SH.ALC.PCAP.MA.LI]',
  'Total fisheries production (metric tons) [ER.FSH.PROD.MT]',
  'Total greenhouse gas emissions (kt of CO2 equivalent) [EN.ATM.GHGT.KT.CE]',
+
+
  'Total natural resources rents (% of GDP) [NY.GDP.TOTL.RT.ZS]',
  'Total tax and contribution rate (% of profit) [IC.TAX.TOTL.CP.ZS]',
  'Trade (% of GDP) [NE.TRD.GNFS.ZS]',
