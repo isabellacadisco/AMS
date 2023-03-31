@@ -1,0 +1,11 @@
+KAYA
+
+'GDP, PPP (constant 2017 international $) [NY.GDP.MKTP.PP.KD]',
+
+'CO2 emissions (kg per 2017 PPP $ of GDP) [EN.ATM.CO2E.PP.GD.KD]',
+
+'Population, total [SP.POP.TOTL]',
+
+'Energy intensity level of primary energy (MJ/$2017 PPP GDP) [EG.EGY.PRIM.PP.KD]',
+
+'Carbon intensity of electricity (gCO2/kWh)'

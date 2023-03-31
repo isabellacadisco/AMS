@@ -1,0 +1,40 @@
+'Country Code', 'Country Name',
+
+'Access to clean fuels and technologies for cooking (% of population) [EG.CFT.ACCS.ZS]',
+'Access to clean fuels and technologies for cooking, rural (% of rural population) [EG.CFT.ACCS.RU.ZS]',
+'Access to clean fuels and technologies for cooking, urban (% of urban population) [EG.CFT.ACCS.UR.ZS]',
+
+'Access to electricity (% of population) [EG.ELC.ACCS.ZS]',
+'Access to electricity, rural (% of rural population) [EG.ELC.ACCS.RU.ZS]',
+'Access to electricity, urban (% of urban population) [EG.ELC.ACCS.UR.ZS]',
+
+'Renewable energy consumption (% of total final energy consumption) [EG.FEC.RNEW.ZS]',
+
+'Total greenhouse gas emissions (kt of CO2 equivalent) [EN.ATM.GHGT.KT.CE]',
+
+'CO2 emissions (kg per 2017 PPP $ of GDP) [EN.ATM.CO2E.PP.GD.KD]',
+
+'Agricultural methane emissions (thousand metric tons of CO2 equivalent) [EN.ATM.METH.AG.KT.CE]',
+'Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent) [EN.ATM.NOXE.AG.KT.CE]',
+
+'Methane emissions (kt of CO2 equivalent) [EN.ATM.METH.KT.CE]',
+'Nitrous oxide emissions (thousand metric tons of CO2 equivalent) [EN.ATM.NOXE.KT.CE]',
+
+'Energy intensity level of primary energy (MJ/$2017 PPP GDP) [EG.EGY.PRIM.PP.KD]',
+'Carbon intensity of electricity (gCO2/kWh)'],
+
+
+
+'Age dependency ratio, old (% of working-age population) [SP.POP.DPND.OL]',
+'Employers, total (% of total employment) (modeled ILO estimate) [SL.EMP.MPYR.ZS]',
+'Exports of goods and services (current US$) [NE.EXP.GNFS.CD]',
+'Imports of goods and services (current US$) [NE.IMP.GNFS.CD]',
+'Final consumption expenditure (current US$) [NE.CON.TOTL.CD]',
+'GDP, PPP (constant 2017 international $) [NY.GDP.MKTP.PP.KD]',
+'GDP growth (annual %) [NY.GDP.MKTP.KD.ZG]',
+'GNI, PPP (current international $) [NY.GNP.MKTP.PP.CD]',
+'Industry (including construction), value added (% of GDP) [NV.IND.TOTL.ZS]',
+'Population, total [SP.POP.TOTL]',
+'Wage and salaried workers, total (% of total employment) (modeled ILO estimate) [SL.EMP.WORK.ZS]',
+
+'Income Group',
