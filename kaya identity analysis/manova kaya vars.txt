@@ -1,0 +1,28 @@
+# variables manova pollution
+
+#Mitigation policies, easier richer countries
+
+'Renewable energy consumption (% of total final energy consumption) [EG.FEC.RNEW.ZS]',
+'Access to electricity (% of population) [EG.ELC.ACCS.ZS]',
+'Access to clean fuels and technologies for cooking (% of population) [EG.CFT.ACCS.ZS]'
+
+
+
+# cose brutte
+
+'CO2 emissions (kg per 2017 PPP $ of GDP) [EN.ATM.CO2E.PP.GD.KD]',
+'Total greenhouse gas emissions (kt of CO2 equivalent) [EN.ATM.GHGT.KT.CE]',
+
+# cose che vogliamo avere ridotte
+'Energy intensity level of primary energy (MJ/$2017 PPP GDP) [EG.EGY.PRIM.PP.KD]',
+'Carbon intensity of electricity (gCO2/kWh)'
+
+
+
+
+
+'Renewable energy consumption (% of total final energy consumption) [EG.FEC.RNEW.ZS]': 're_energy_con',
+'CO2 emissions (kg per 2017 PPP $ of GDP) [EN.ATM.CO2E.PP.GD.KD]':'CO2_em_ppp',
+'Access to electricity (% of population) [EG.ELC.ACCS.ZS]': 'access_elec',
+'Access to clean fuels and technologies for cooking (% of population) [EG.CFT.ACCS.ZS]':'access_clean_fuels'},
+'Total greenhouse gas emissions (kt of CO2 equivalent) [EN.ATM.GHGT.KT.CE]' : 'greenhouse','Energy intensity level of primary energy (MJ/$2017 PPP GDP) [EG.EGY.PRIM.PP.KD]':'energy_intensity','Carbon intensity of electricity (gCO2/kWh)':'carbon_intensity'}, inplace = True, axis = 1)
