@@ -1,0 +1,67 @@
+'Adjusted net national income (current US$) [NY.ADJ.NNTY.CD]',
+ 'Adjusted net national income per capita (current US$) [NY.ADJ.NNTY.PC.CD]',
+ 'Adjusted savings: carbon dioxide damage (% of GNI) [NY.ADJ.DCO2.GN.ZS]',
+ 'Adjusted savings: consumption of fixed capital (% of GNI) [NY.ADJ.DKAP.GN.ZS]',
+ 'Adjusted savings: education expenditure (% of GNI) [NY.ADJ.AEDU.GN.ZS]',
+ 'Adjusted savings: energy depletion (% of GNI) [NY.ADJ.DNGY.GN.ZS]',
+ 'Adjusted savings: mineral depletion (% of GNI) [NY.ADJ.DMIN.GN.ZS]',
+ 'Adjusted savings: mineral depletion (current US$) [NY.ADJ.DMIN.CD]',
+ 'Adjusted savings: natural resources depletion (% of GNI) [NY.ADJ.DRES.GN.ZS]',
+ 'Adjusted savings: net forest depletion (% of GNI) [NY.ADJ.DFOR.GN.ZS]',
+ 'Adjusted savings: particulate emission damage (% of GNI) [NY.ADJ.DPEM.GN.ZS]',
+
+
+'Age dependency ratio (% of working-age population) [SP.POP.DPND]',
+ 'Age dependency ratio, old (% of working-age population) [SP.POP.DPND.OL]',
+ 'Age dependency ratio, young (% of working-age population) [SP.POP.DPND.YG]',
+
+'Contributing family workers, total (% of total employment) (modeled ILO estimate) [SL.FAM.WORK.ZS]',
+
+ 'Current health expenditure per capita, PPP (current international $) [SH.XPD.CHEX.PP.CD]',
+
+'Employers, total (% of total employment) (modeled ILO estimate) [SL.EMP.MPYR.ZS]',
+
+
+
+'Exports of goods and services (% of GDP) [NE.EXP.GNFS.ZS]',
+
+ 'Exports of goods and services (current US$) [NE.EXP.GNFS.CD]',
+
+'Final consumption expenditure (current US$) [NE.CON.TOTL.CD]',
+
+'GDP growth (annual %) [NY.GDP.MKTP.KD.ZG]',
+'GDP (current US$) [NY.GDP.MKTP.CD]',
+'GDP per capita (current US$) [NY.GDP.PCAP.CD]',
+'General government final consumption expenditure (% of GDP) [NE.CON.GOVT.ZS]',
+ 'General government final consumption expenditure (current US$) [NE.CON.GOVT.CD]',
+
+#.....
+
+'GNI (current US$) [NY.GNP.MKTP.CD]',
+'GNI, PPP (current international $) [NY.GNP.MKTP.PP.CD]',
+'Imports of goods and services (BoP, current US$) [BM.GSR.GNFS.CD]',
+'Imports of goods and services (current US$) [NE.IMP.GNFS.CD]',
+'Industry (including construction), value added (% of GDP) [NV.IND.TOTL.ZS]',
+'Industry (including construction), value added (annual % growth) [NV.IND.TOTL.KD.ZG]',
+'Industry (including construction), value added (current US$) [NV.IND.TOTL.CD]',
+
+'Inflation, consumer prices (annual %) [FP.CPI.TOTL.ZG]',
+'Inflation, GDP deflator (annual %) [NY.GDP.DEFL.KD.ZG]',
+
+ 'Manufacturing, value added (% of GDP) [NV.IND.MANF.ZS]',
+ 'Manufacturing, value added (annual % growth) [NV.IND.MANF.KD.ZG]',
+ 'Manufacturing, value added (current US$) [NV.IND.MANF.CD]',
+
+'Population, total [SP.POP.TOTL]',
+
+'Total tax and contribution rate (% of profit) [IC.TAX.TOTL.CP.ZS]',
+'Unemployment, total (% of total labor force) (modeled ILO estimate) [SL.UEM.TOTL.ZS]',
+'Wage and salaried workers, total (% of total employment) (modeled ILO estimate) [SL.EMP.WORK.ZS]',
+
+
+
+
+
+
+
+
